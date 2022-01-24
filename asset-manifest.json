@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://venupreethi.github.io/csb-c48ie/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://venupreethi.github.io/csb-c48ie/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://venupreethi.github.io/csb-c48ie/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://venupreethi.github.io/csb-c48ie/static/js/runtime-main.f90dc722.js",
+    "runtime-main.js.map": "https://venupreethi.github.io/csb-c48ie/static/js/runtime-main.f90dc722.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://venupreethi.github.io/csb-c48ie/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://venupreethi.github.io/csb-c48ie/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://venupreethi.github.io/csb-c48ie/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://venupreethi.github.io/csb-c48ie/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://venupreethi.github.io/csb-c48ie/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f90dc722.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
